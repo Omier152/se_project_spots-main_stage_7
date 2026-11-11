@@ -1,5 +1,5 @@
 
-# Project 4: Spots
+# Project :Spots
 
 ## Description:
 
@@ -18,8 +18,7 @@ Dev tools
 JavaScript
 
 ### Github
-
-git@github.com/Omier152/se_project_spots-main-main.git
+Your site is live at https://omier152.github.io/se_project_spots-main_stage_7/
 
 ### Video
 
